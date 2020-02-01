@@ -1,0 +1,6 @@
+(Connected B C)
+(Connected C D)
+(Connected D F)
+(Connected A E)
+(Connected (ComputerIn YourOffice) (ComputerIn MyOffice))
+(Connected (ComputerIn MyOffice) (ComputerIn MyHome))

@@ -1,0 +1,2 @@
+(DEFRULE ConnectedSymmetry (Connected ?x ?y) => (Connected ?y ?x))
+(DEFRULE ConnectedTransitivity (Connected ?x ?y) (Connected ?y ?z) => (Connected ?x ?z))
